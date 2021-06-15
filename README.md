@@ -1,6 +1,9 @@
 
 
 # LaboratorioTarea2
+
+estudiantes: JOHAN TAIPICAÑA, NAYELI TISALEMA, BRYAN SIMBAÑA, JOSUE PILLAJO
+
 1.OBJETIVOS
 
 1.1.Objetivo general.
