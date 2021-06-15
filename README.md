@@ -16,6 +16,10 @@ Revisar el funcionamiento del voltajem corriente electrica y de potencia que se 
 
 2.MARCO TEORICO
 
+CAPITULO 3.
+![WhatsApp Image 2021-06-15 at 00 48 41](https://user-images.githubusercontent.com/81887698/122053051-019bf880-cdac-11eb-88d6-ec897c73ccf3.jpeg)
+
+
 
 Capitulo 4
 ![Concept Map (7)](https://user-images.githubusercontent.com/81887698/121995189-296b6c00-cd6c-11eb-9973-eaa80ac8e05a.jpg)
