@@ -14,8 +14,12 @@ Entender como funciona la ley de Ohm en la vida diaria.
 Revisar el funcionamiento del voltajem corriente electrica y de potencia que se encuentra en la teoria aplicados en la vida cotidiana para resover los ejercicios del capitulo 4.
 2.MARCO TEORICO
 
+Capitulo 3
+
+![WhatsApp Image 2021-06-15 at 00 48 41](https://user-images.githubusercontent.com/81887698/122000082-e0b7b100-cd73-11eb-95cc-ebb447362b38.jpeg)
 
 Capitulo 4
+
 ![Concept Map (7)](https://user-images.githubusercontent.com/81887698/121995189-296b6c00-cd6c-11eb-9973-eaa80ac8e05a.jpg)
 ![Concept Map (8)](https://user-images.githubusercontent.com/81887698/121995204-2ec8b680-cd6c-11eb-9574-2f471c44f1f9.jpg)![Concept Map (9)](https://user-images.githubusercontent.com/81887698/121995217-34260100-cd6c-11eb-9a71-4f9f0b388fd9.jpg)
 
